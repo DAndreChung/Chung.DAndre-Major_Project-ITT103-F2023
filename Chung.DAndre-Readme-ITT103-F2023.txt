@@ -1,0 +1,16 @@
+Author: D'Andre Chung
+Date Created: 30 Nov 2024
+Course: ITT103
+GitHub Public URL to Code:
+
+This program is a student registration system that should add students and courses to a system. 
+The program calculates the fee that the students would pay for each course. 
+The total for each student depends on how many courses they have signed up for and the cost per course. 
+The program also allows you to pay for the course as well.
+
+To run the program you will need a pyhton interpreter. Just copy code and paste to the interpreter or download the file and 
+open using the application.
+
+The program assumes that you have courses and students to add, it also doesnt have a tested limit for students and courses.
+You cannot use the same ID numbers for stundents and courses it will cause confusion in the code. 
+There is no surplus funds set for students. 
